@@ -20,6 +20,10 @@ nav a{
     margin-bottom: 20px;
 }
 
+h1, h3, p {
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
 .simply-section {
     background-color: #fff;
     color: black;
@@ -30,7 +34,6 @@ nav a{
     display: flex;
     align-items: center;
     justify-content: center;
-    
 }
 
 .simply-amount {
