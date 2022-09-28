@@ -19,6 +19,7 @@ simplyCountdown('#cuenta', {
     onEnd: function() { return; }, //Callback on countdown end, put your own function here
     refresh: 1000, // default refresh every 1s
     sectionClass: 'simply-section', //section css class
+    sectionClass: 'col-6',
     amountClass: 'simply-amount', // amount css class
     wordClass: 'simply-word', // word css class
     zeroPad: false,
