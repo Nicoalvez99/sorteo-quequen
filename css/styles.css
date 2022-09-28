@@ -1,11 +1,6 @@
 nav a{
     margin: 0 10px;
-    color: #fff;
-    text-decoration: none;
     
-}
-nav ul li {
-    list-style: none;
 }
 .fondo {
     height: 100vh;
@@ -14,8 +9,6 @@ nav ul li {
 .letras {
     top: 0px;
     position: fixed;
-    margin-top: 20px;
-    z-index: 10;
 }
 
 
@@ -24,10 +17,6 @@ nav ul li {
     display: flex;
     justify-content: center;
     margin-bottom: 20px;
-}
-
-h1, h3, p {
-    font-family: 'Hind Siliguri', sans-serif;
 }
 
 .simply-section {
@@ -40,6 +29,7 @@ h1, h3, p {
     display: flex;
     align-items: center;
     justify-content: center;
+    
 }
 
 .simply-amount {

@@ -32,7 +32,3 @@ simplyCountdown(myElement, { /* options */ });
 let multipleElements = document.querySelectorAll('.my-countdown');
 simplyCountdown(multipleElements, { /* options */ });
 
-if(window.onload){
-    let timer = document.querySelector('simply-section');
-    timer.classList.add(col-6);
-}
